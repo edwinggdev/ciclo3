@@ -1,3 +1,4 @@
 primer texto
 segundo texto 
 tercer texto
+texto de codigo de error o proceso que no funciona
